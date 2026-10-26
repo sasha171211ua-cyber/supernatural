@@ -1,0 +1,4 @@
+{"type":"minecraft:crafting_shaped","category":"misc",
+ "pattern":[" S ","SHS"," S "],
+ "key":{"S":{"item":"supernatural:salt"},"H":{"item":"supernatural:holy_water"}},
+ "result":{"id":"supernatural:devils_trap","count":1}}

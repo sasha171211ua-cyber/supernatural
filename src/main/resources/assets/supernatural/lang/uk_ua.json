@@ -1,0 +1,11 @@
+{
+  "itemGroup.supernatural": "Надприродне",
+  "block.supernatural.salt_ore": "Соляна руда",
+  "block.supernatural.salt_line": "Лінія солі",
+  "block.supernatural.devils_trap": "Пастка диявола",
+  "item.supernatural.salt": "Сіль",
+  "item.supernatural.holy_water": "Свята вода",
+  "item.supernatural.iron_poker": "Залізна кочерга",
+  "item.supernatural.ghost_spawn_egg": "Яйце виклику: Привид",
+  "entity.supernatural.ghost": "Привид"
+}
