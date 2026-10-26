@@ -1,6 +1,5 @@
 package com.supernatural.item;
 
-import com.supernatural.entity.GhostEntity;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
@@ -24,10 +23,6 @@ public class HolyWaterItem extends Item {
     public TypedActionResult<ItemStack> use(World world, PlayerEntity user, Hand hand) {
         ItemStack stack = user.getStackInHand(hand);
         if (world instanceof ServerWorld sw) {
-            var box = user.getBoundingBox().expand(4.0);
-            for (GhostEntity g : sw.getEntitiesByClass(GhostEntity.class, box, e -> true)) {
-                g.damage(sw.getDamageSources().magic(), 10.0f);
-            }
             sw.spawnParticles(ParticleTypes.SPLASH, user.getX(), user.getY() + 1.0, user.getZ(),
                     40, 1.5, 0.6, 1.5, 0.1);
             sw.playSound(null, user.getBlockPos(), SoundEvents.ENTITY_SPLASH_POTION_BREAK,
