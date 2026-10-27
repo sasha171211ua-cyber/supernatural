@@ -205,7 +205,7 @@ public class GhostEntity extends HostileEntity {
         hits++;
         takeKnockback(0.15, p.getX() - getX(), p.getZ() - getZ());
         setHealth(Math.max(1.0f, getMaxHealth() * (1.0f - hits / (float) t.hitsToRetreat)));
-        sw.sendEntityStatus(this, EntityStatuses.DAMAGE_FROM_GENERIC_SOURCE);
+                sw.sendEntityStatus(this, (byte) 2);
         playSound(SoundEvents.ENTITY_VEX_HURT, 1.0f, 0.8f);
         if (hits >= t.hitsToRetreat) {
             mode = Mode.RETREAT;
