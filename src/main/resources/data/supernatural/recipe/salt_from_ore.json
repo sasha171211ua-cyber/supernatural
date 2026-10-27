@@ -1,3 +1,0 @@
-{"type":"minecraft:crafting_shapeless","category":"misc",
- "ingredients":[{"item":"supernatural:salt_ore"}],
- "result":{"id":"supernatural:salt","count":4}}
