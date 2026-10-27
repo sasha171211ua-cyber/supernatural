@@ -1,0 +1,105 @@
+{
+ "parent": "minecraft:block/block",
+ "textures": {
+  "t": "supernatural:block/remains_strong",
+  "particle": "supernatural:block/remains_strong"
+ },
+ "elements": [
+  {
+   "from": [
+    2,
+    0,
+    2
+   ],
+   "to": [
+    14,
+    2,
+    14
+   ],
+   "faces": {
+    "down": {
+     "texture": "#t"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "north": {
+     "texture": "#t"
+    },
+    "south": {
+     "texture": "#t"
+    },
+    "west": {
+     "texture": "#t"
+    },
+    "east": {
+     "texture": "#t"
+    }
+   }
+  },
+  {
+   "from": [
+    4,
+    2,
+    4
+   ],
+   "to": [
+    12,
+    4,
+    12
+   ],
+   "faces": {
+    "down": {
+     "texture": "#t"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "north": {
+     "texture": "#t"
+    },
+    "south": {
+     "texture": "#t"
+    },
+    "west": {
+     "texture": "#t"
+    },
+    "east": {
+     "texture": "#t"
+    }
+   }
+  },
+  {
+   "from": [
+    6,
+    4,
+    6
+   ],
+   "to": [
+    10,
+    6,
+    10
+   ],
+   "faces": {
+    "down": {
+     "texture": "#t"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "north": {
+     "texture": "#t"
+    },
+    "south": {
+     "texture": "#t"
+    },
+    "west": {
+     "texture": "#t"
+    },
+    "east": {
+     "texture": "#t"
+    }
+   }
+  }
+ ]
+}

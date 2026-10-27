@@ -1,0 +1,105 @@
+{
+ "parent": "minecraft:block/block",
+ "textures": {
+  "t": "supernatural:block/tombstone_cursed",
+  "particle": "supernatural:block/tombstone_cursed"
+ },
+ "elements": [
+  {
+   "from": [
+    2,
+    0,
+    5
+   ],
+   "to": [
+    14,
+    2,
+    11
+   ],
+   "faces": {
+    "down": {
+     "texture": "#t"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "north": {
+     "texture": "#t"
+    },
+    "south": {
+     "texture": "#t"
+    },
+    "west": {
+     "texture": "#t"
+    },
+    "east": {
+     "texture": "#t"
+    }
+   }
+  },
+  {
+   "from": [
+    3,
+    2,
+    7
+   ],
+   "to": [
+    13,
+    12,
+    9
+   ],
+   "faces": {
+    "down": {
+     "texture": "#t"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "north": {
+     "texture": "#t"
+    },
+    "south": {
+     "texture": "#t"
+    },
+    "west": {
+     "texture": "#t"
+    },
+    "east": {
+     "texture": "#t"
+    }
+   }
+  },
+  {
+   "from": [
+    4,
+    12,
+    7
+   ],
+   "to": [
+    12,
+    14,
+    9
+   ],
+   "faces": {
+    "down": {
+     "texture": "#t"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "north": {
+     "texture": "#t"
+    },
+    "south": {
+     "texture": "#t"
+    },
+    "west": {
+     "texture": "#t"
+    },
+    "east": {
+     "texture": "#t"
+    }
+   }
+  }
+ ]
+}

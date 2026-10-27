@@ -1,0 +1,105 @@
+{
+ "parent": "minecraft:block/block",
+ "textures": {
+  "t": "supernatural:block/burial_urn",
+  "particle": "supernatural:block/burial_urn"
+ },
+ "elements": [
+  {
+   "from": [
+    4,
+    0,
+    4
+   ],
+   "to": [
+    12,
+    7,
+    12
+   ],
+   "faces": {
+    "down": {
+     "texture": "#t"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "north": {
+     "texture": "#t"
+    },
+    "south": {
+     "texture": "#t"
+    },
+    "west": {
+     "texture": "#t"
+    },
+    "east": {
+     "texture": "#t"
+    }
+   }
+  },
+  {
+   "from": [
+    5,
+    7,
+    5
+   ],
+   "to": [
+    11,
+    9,
+    11
+   ],
+   "faces": {
+    "down": {
+     "texture": "#t"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "north": {
+     "texture": "#t"
+    },
+    "south": {
+     "texture": "#t"
+    },
+    "west": {
+     "texture": "#t"
+    },
+    "east": {
+     "texture": "#t"
+    }
+   }
+  },
+  {
+   "from": [
+    6,
+    9,
+    6
+   ],
+   "to": [
+    10,
+    10,
+    10
+   ],
+   "faces": {
+    "down": {
+     "texture": "#t"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "north": {
+     "texture": "#t"
+    },
+    "south": {
+     "texture": "#t"
+    },
+    "west": {
+     "texture": "#t"
+    },
+    "east": {
+     "texture": "#t"
+    }
+   }
+  }
+ ]
+}
