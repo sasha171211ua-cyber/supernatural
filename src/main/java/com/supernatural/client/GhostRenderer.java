@@ -6,12 +6,11 @@ import net.minecraft.client.render.RenderLayer;
 import net.minecraft.client.render.entity.BipedEntityRenderer;
 import net.minecraft.client.render.entity.EntityRendererFactory;
 import net.minecraft.client.render.entity.model.EntityModelLayers;
-import net.minecraft.client.render.entity.model.ZombieEntityModel;
 import net.minecraft.util.Identifier;
 
-public class GhostRenderer extends BipedEntityRenderer<GhostEntity, ZombieEntityModel<GhostEntity>> {
+public class GhostRenderer extends BipedEntityRenderer<GhostEntity, GhostModel> {
     public GhostRenderer(EntityRendererFactory.Context ctx) {
-        super(ctx, new ZombieEntityModel<>(ctx.getPart(EntityModelLayers.ZOMBIE)), 0.4f);
+        super(ctx, new GhostModel(ctx.getPart(EntityModelLayers.ZOMBIE)), 0.4f);
     }
 
     @Override
