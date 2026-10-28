@@ -1,0 +1,233 @@
+{
+ "item.waterpipe_shotgun.fire": {
+  "sounds": [
+   {
+    "name": "supernatural:item/waterpipe_shotgun/fire"
+   }
+  ]
+ },
+ "item.waterpipe_shotgun.reload_start": {
+  "sounds": [
+   {
+    "name": "supernatural:item/pump_shotgun/shell"
+   }
+  ]
+ },
+ "item.waterpipe_shotgun.reload_end": {
+  "sounds": [
+   {
+    "name": "supernatural:item/pump_shotgun/pump"
+   }
+  ]
+ },
+ "item.custom_smg.fire": {
+  "sounds": [
+   {
+    "name": "supernatural:item/custom_smg/fire"
+   }
+  ]
+ },
+ "item.custom_smg.reload_start": {
+  "sounds": [
+   {
+    "name": "supernatural:item/combat_rifle/reload_magazine_out"
+   }
+  ]
+ },
+ "item.custom_smg.reload_end": {
+  "sounds": [
+   {
+    "name": "supernatural:item/combat_rifle/reload_ejector"
+   }
+  ]
+ },
+ "item.revolver.fire": {
+  "sounds": [
+   {
+    "name": "supernatural:item/revolver/fire"
+   }
+  ]
+ },
+ "item.revolver.reload_start": {
+  "sounds": [
+   {
+    "name": "supernatural:item/revolver/reload_bullets_out"
+   }
+  ]
+ },
+ "item.revolver.reload_end": {
+  "sounds": [
+   {
+    "name": "supernatural:item/revolver/chamber_spin"
+   }
+  ]
+ },
+ "item.semi_auto_pistol.fire": {
+  "sounds": [
+   {
+    "name": "supernatural:item/semi_auto_pistol/fire"
+   }
+  ]
+ },
+ "item.semi_auto_pistol.reload_start": {
+  "sounds": [
+   {
+    "name": "supernatural:item/combat_pistol/reload_mag_out"
+   }
+  ]
+ },
+ "item.semi_auto_pistol.reload_end": {
+  "sounds": [
+   {
+    "name": "supernatural:item/revolver/chamber_spin"
+   }
+  ]
+ },
+ "item.combat_pistol.fire": {
+  "sounds": [
+   {
+    "name": "supernatural:item/combat_pistol/fire"
+   }
+  ]
+ },
+ "item.combat_pistol.reload_start": {
+  "sounds": [
+   {
+    "name": "supernatural:item/combat_pistol/reload_mag_out"
+   }
+  ]
+ },
+ "item.combat_pistol.reload_end": {
+  "sounds": [
+   {
+    "name": "supernatural:item/revolver/chamber_spin"
+   }
+  ]
+ },
+ "item.double_barrel_shotgun.fire": {
+  "sounds": [
+   {
+    "name": "supernatural:item/double_barrel_shotgun/fire"
+   }
+  ]
+ },
+ "item.double_barrel_shotgun.reload_start": {
+  "sounds": [
+   {
+    "name": "supernatural:item/pump_shotgun/shell"
+   }
+  ]
+ },
+ "item.double_barrel_shotgun.reload_end": {
+  "sounds": [
+   {
+    "name": "supernatural:item/pump_shotgun/pump"
+   }
+  ]
+ },
+ "item.pump_shotgun.fire": {
+  "sounds": [
+   {
+    "name": "supernatural:item/pump_shotgun/fire"
+   }
+  ]
+ },
+ "item.pump_shotgun.reload_start": {
+  "sounds": [
+   {
+    "name": "supernatural:item/pump_shotgun/shell"
+   }
+  ]
+ },
+ "item.pump_shotgun.reload_end": {
+  "sounds": [
+   {
+    "name": "supernatural:item/pump_shotgun/pump"
+   }
+  ]
+ },
+ "item.repeating_shotgun.fire": {
+  "sounds": [
+   {
+    "name": "supernatural:item/repeating_shotgun/fire"
+   }
+  ]
+ },
+ "item.repeating_shotgun.reload_start": {
+  "sounds": [
+   {
+    "name": "supernatural:item/pump_shotgun/pump_pull"
+   }
+  ]
+ },
+ "item.repeating_shotgun.reload_end": {
+  "sounds": [
+   {
+    "name": "supernatural:item/pump_shotgun/pump"
+   }
+  ]
+ },
+ "item.holy_shotgun.fire": {
+  "sounds": [
+   {
+    "name": "supernatural:item/holy_shotgun/fire"
+   }
+  ]
+ },
+ "item.holy_shotgun.reload_start": {
+  "sounds": [
+   {
+    "name": "supernatural:item/pistol/reload"
+   }
+  ]
+ },
+ "item.holy_shotgun.reload_end": {
+  "sounds": [
+   {
+    "name": "supernatural:item/pistol/cock"
+   }
+  ]
+ },
+ "item.bolt_action_rifle.fire": {
+  "sounds": [
+   {
+    "name": "supernatural:item/bolt_action_rifle/fire"
+   }
+  ]
+ },
+ "item.bolt_action_rifle.reload_start": {
+  "sounds": [
+   {
+    "name": "supernatural:item/bolt_action_rifle/bullet_in"
+   }
+  ]
+ },
+ "item.bolt_action_rifle.reload_end": {
+  "sounds": [
+   {
+    "name": "supernatural:item/bolt_action_rifle/bullet_in"
+   }
+  ]
+ },
+ "item.infantry_rifle.fire": {
+  "sounds": [
+   {
+    "name": "supernatural:item/infantry_rifle/fire"
+   }
+  ]
+ },
+ "item.infantry_rifle.reload_start": {
+  "sounds": [
+   {
+    "name": "supernatural:item/assault_rifle/reload_magazine_out"
+   }
+  ]
+ },
+ "item.infantry_rifle.reload_end": {
+  "sounds": [
+   {
+    "name": "supernatural:item/infantry_rifle/ejector"
+   }
+  ]
+ }
+}

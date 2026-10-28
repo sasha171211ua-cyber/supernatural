@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "supernatural",
+  "version": "${version}",
+  "name": "Supernatural",
+  "description": "Полювання на нечисть: сіль, свята вода, привиди, вогнепальна зброя.",
+  "authors": [
+    "You"
+  ],
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.supernatural.SupernaturalMod"
+    ],
+    "client": [
+      "com.supernatural.client.SupernaturalClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "license": "GPL-3.0",
+  "contributors": [
+    "MigaMi (Just Enough Guns — gun models, textures, sounds)",
+    "MrCrayfish (Gun Mod, on which Just Enough Guns is based)"
+  ]
+}
